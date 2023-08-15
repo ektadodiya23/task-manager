@@ -1,0 +1,143 @@
+.logotext{
+ font-size: 20px;
+ padding: 0 20px;
+ color: #000;
+ font-weight: bold;
+}
+
+.closemenu{
+   color: #000;
+   margin-left: 68%;
+   margin-top: 5%;
+   margin-bottom: 4%;
+   cursor: pointer;
+}
+
+.menu_bar{
+   height: 871px;
+   
+}
+
+.navbar{
+    background-color: #03a9f4;
+}
+
+.menu_item{
+  font-weight:600 ;
+  border-bottom: 1px solid black;
+}
+.menu_item_active{
+   color: #0d325c;
+}
+
+/* TABLE_USER */
+.table_item{
+    margin-top: 3%;
+    margin-left: 6%;
+    width: 77%; 
+}
+
+
+/* TASK_MANAGMENT */
+.task_bar{
+  text-align: end;
+}
+
+.text_area {
+   margin-top: 3% !important;
+   margin-left: 3% !important;
+   margin-right: 3% !important;
+  
+}
+/* .add_btn{
+   margin-right: 10% !important;
+} */
+
+/* FROM_TABLE */
+.form_table{
+   width: 76%;
+   margin-left: 6%;
+}
+
+.inputContainer__input {
+   margin-left: 6% !important;
+   padding: 8px;
+   display: flex;
+   border: 1px solid lightgray;
+   align-items: center;
+   justify-content: space-between;
+   /* cursor: pointer; */
+}
+
+.inputContainer {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   gap: 7px;
+ }
+
+ /* SUB_TASK_BOX */
+.subTask_box{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin-top: 3%;
+}
+
+.MuiOutlinedInput-input {
+   height: 10% !important
+}
+
+.index_sunTask{
+   border: 1px solid #1976d2;
+   width: 5%;
+   height: 9%;
+   border-radius: 48%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.rbc-header {
+   background-color: #7da7d1;
+   padding:  10px !important;
+}
+
+.box_part{
+   border: 1px solid #eeeeee;
+   width: auto;
+   height: auto;
+   border: 1px solid #eeeeee;
+   margin: 3%;
+}
+
+.box_part_active {
+   border: 1px solid #eeeeee;
+   width: auto;
+   height: auto;
+   border: 1px solid #eeeeee;
+   margin: 3%;
+   background-color: #c76f74;
+}
+.active {
+   background-color: red;
+   color: white;
+ }
+.icon_part{
+  position: relative;
+}
+
+.icon_part{
+   position: absolute;
+   top: -3%;
+   right: 0;
+   left: 95%;
+   background-color: blanchedalmond;
+   border-radius: 40px;
+   width: 30px;
+   height: 30px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+

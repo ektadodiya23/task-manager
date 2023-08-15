@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*REGISTER_PAGE */
+
+.reg_box{
+   border-radius: 6px;
+}
+.reg_image{
+    width: 650px;
+    height: 800px;
+}
+.reg_field{
+     margin-top: 1%;
+    margin-left: 17%;
+   
+    border-radius: 6px;
+    padding-left: 4%;
+   font-weight: 800;
+   padding-bottom: 5%;
+   margin-right: 6%;
+    
+}
+.input_reg{
+    width: 30%;
+}
+
+/* LOGIN_PAGE */
+.login_img{
+    width: 550px;
+    height: 700px;
+    padding-top: 24%;
+}
+.login_about{
+    margin-top: 14%;
+    margin-left: 22%;
+}
+.icon_img{
+    width: 100px;
+    height: 100px;
+    margin-left: 25%;
+}

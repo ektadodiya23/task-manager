@@ -1,0 +1,17 @@
+.Top_bar{
+  margin-left: 1% !important; 
+   font-weight: 700 !important;
+   font-size: 22px !important;
+}
+
+.Top_bar_role {
+   font-size: 20px !important;
+   margin-right: 2% !important;
+}
+.Top_bar_user{
+   font-size: 15px !important;
+}
+.topbar{
+   background-color: rgb(152, 204, 241);
+   padding: 1%;
+}
